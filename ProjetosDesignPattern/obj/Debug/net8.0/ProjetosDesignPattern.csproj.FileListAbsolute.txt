@@ -1,0 +1,14 @@
+E:\Repositorios Github\ProjetosDesignPattern\ProjetosDesignPattern\ProjetosDesignPattern\bin\Debug\net8.0\ProjetosDesignPattern.exe
+E:\Repositorios Github\ProjetosDesignPattern\ProjetosDesignPattern\ProjetosDesignPattern\bin\Debug\net8.0\ProjetosDesignPattern.deps.json
+E:\Repositorios Github\ProjetosDesignPattern\ProjetosDesignPattern\ProjetosDesignPattern\bin\Debug\net8.0\ProjetosDesignPattern.runtimeconfig.json
+E:\Repositorios Github\ProjetosDesignPattern\ProjetosDesignPattern\ProjetosDesignPattern\bin\Debug\net8.0\ProjetosDesignPattern.dll
+E:\Repositorios Github\ProjetosDesignPattern\ProjetosDesignPattern\ProjetosDesignPattern\bin\Debug\net8.0\ProjetosDesignPattern.pdb
+E:\Repositorios Github\ProjetosDesignPattern\ProjetosDesignPattern\ProjetosDesignPattern\obj\Debug\net8.0\ProjetosDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositorios Github\ProjetosDesignPattern\ProjetosDesignPattern\ProjetosDesignPattern\obj\Debug\net8.0\ProjetosDesignPattern.AssemblyInfoInputs.cache
+E:\Repositorios Github\ProjetosDesignPattern\ProjetosDesignPattern\ProjetosDesignPattern\obj\Debug\net8.0\ProjetosDesignPattern.AssemblyInfo.cs
+E:\Repositorios Github\ProjetosDesignPattern\ProjetosDesignPattern\ProjetosDesignPattern\obj\Debug\net8.0\ProjetosDesignPattern.csproj.CoreCompileInputs.cache
+E:\Repositorios Github\ProjetosDesignPattern\ProjetosDesignPattern\ProjetosDesignPattern\obj\Debug\net8.0\ProjetosDesignPattern.dll
+E:\Repositorios Github\ProjetosDesignPattern\ProjetosDesignPattern\ProjetosDesignPattern\obj\Debug\net8.0\refint\ProjetosDesignPattern.dll
+E:\Repositorios Github\ProjetosDesignPattern\ProjetosDesignPattern\ProjetosDesignPattern\obj\Debug\net8.0\ProjetosDesignPattern.pdb
+E:\Repositorios Github\ProjetosDesignPattern\ProjetosDesignPattern\ProjetosDesignPattern\obj\Debug\net8.0\ProjetosDesignPattern.genruntimeconfig.cache
+E:\Repositorios Github\ProjetosDesignPattern\ProjetosDesignPattern\ProjetosDesignPattern\obj\Debug\net8.0\ref\ProjetosDesignPattern.dll
