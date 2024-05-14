@@ -1,3 +1,5 @@
 ﻿using ProjetosDesignPattern.FactoryMethod;
+using ProjetosDesignPattern.Singleton;
 
-ExampleUsageFactoryMethod.StartusingFactoryMethod();
+//ExampleUsageFactoryMethod.StartusingFactoryMethod();
+ExampleUsageSingleton.StartusingSingleton();

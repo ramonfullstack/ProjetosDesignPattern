@@ -12,3 +12,4 @@ E:\Repositorios Github\ProjetosDesignPattern\ProjetosDesignPattern\ProjetosDesig
 E:\Repositorios Github\ProjetosDesignPattern\ProjetosDesignPattern\ProjetosDesignPattern\obj\Debug\net8.0\ProjetosDesignPattern.pdb
 E:\Repositorios Github\ProjetosDesignPattern\ProjetosDesignPattern\ProjetosDesignPattern\obj\Debug\net8.0\ProjetosDesignPattern.genruntimeconfig.cache
 E:\Repositorios Github\ProjetosDesignPattern\ProjetosDesignPattern\ProjetosDesignPattern\obj\Debug\net8.0\ref\ProjetosDesignPattern.dll
+E:\Repositorios Github\ProjetosDesignPattern\ProjetosDesignPattern\ProjetosDesignPattern\obj\Debug\net8.0\ProjetosDesignPattern.sourcelink.json
