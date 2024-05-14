@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "E:\\Repositorios Github\\ProjetosDesignPattern\\ProjetosDesignPattern\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{129B79D1-BFC3-404C-A1E2-FE15C712A0EC}|ProjetosDesignPattern\\ProjetosDesignPattern.csproj|e:\\repositorios github\\projetosdesignpattern\\projetosdesignpattern\\projetosdesignpattern\\strategy\\exampleusagestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129B79D1-BFC3-404C-A1E2-FE15C712A0EC}|ProjetosDesignPattern\\ProjetosDesignPattern.csproj|solutionrelative:projetosdesignpattern\\strategy\\exampleusagestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{129B79D1-BFC3-404C-A1E2-FE15C712A0EC}|ProjetosDesignPattern\\ProjetosDesignPattern.csproj|e:\\repositorios github\\projetosdesignpattern\\projetosdesignpattern\\projetosdesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{129B79D1-BFC3-404C-A1E2-FE15C712A0EC}|ProjetosDesignPattern\\ProjetosDesignPattern.csproj|solutionrelative:projetosdesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129B79D1-BFC3-404C-A1E2-FE15C712A0EC}|ProjetosDesignPattern\\ProjetosDesignPattern.csproj|e:\\repositorios github\\projetosdesignpattern\\projetosdesignpattern\\projetosdesignpattern\\strategy\\services\\bubblesortstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129B79D1-BFC3-404C-A1E2-FE15C712A0EC}|ProjetosDesignPattern\\ProjetosDesignPattern.csproj|solutionrelative:projetosdesignpattern\\strategy\\services\\bubblesortstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129B79D1-BFC3-404C-A1E2-FE15C712A0EC}|ProjetosDesignPattern\\ProjetosDesignPattern.csproj|e:\\repositorios github\\projetosdesignpattern\\projetosdesignpattern\\projetosdesignpattern\\strategy\\sorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129B79D1-BFC3-404C-A1E2-FE15C712A0EC}|ProjetosDesignPattern\\ProjetosDesignPattern.csproj|solutionrelative:projetosdesignpattern\\strategy\\sorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129B79D1-BFC3-404C-A1E2-FE15C712A0EC}|ProjetosDesignPattern\\ProjetosDesignPattern.csproj|e:\\repositorios github\\projetosdesignpattern\\projetosdesignpattern\\projetosdesignpattern\\strategy\\services\\quicksortstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129B79D1-BFC3-404C-A1E2-FE15C712A0EC}|ProjetosDesignPattern\\ProjetosDesignPattern.csproj|solutionrelative:projetosdesignpattern\\strategy\\services\\quicksortstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129B79D1-BFC3-404C-A1E2-FE15C712A0EC}|ProjetosDesignPattern\\ProjetosDesignPattern.csproj|e:\\repositorios github\\projetosdesignpattern\\projetosdesignpattern\\projetosdesignpattern\\strategy\\interfaces\\isortstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129B79D1-BFC3-404C-A1E2-FE15C712A0EC}|ProjetosDesignPattern\\ProjetosDesignPattern.csproj|solutionrelative:projetosdesignpattern\\strategy\\interfaces\\isortstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{129B79D1-BFC3-404C-A1E2-FE15C712A0EC}|ProjetosDesignPattern\\ProjetosDesignPattern.csproj|e:\\repositorios github\\projetosdesignpattern\\projetosdesignpattern\\projetosdesignpattern\\singleton\\exampleusagesingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,19 +43,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ExampleUsageStrategy.cs",
+              "DocumentMoniker": "E:\\Repositorios Github\\ProjetosDesignPattern\\ProjetosDesignPattern\\ProjetosDesignPattern\\Strategy\\ExampleUsageStrategy.cs",
+              "RelativeDocumentMoniker": "ProjetosDesignPattern\\Strategy\\ExampleUsageStrategy.cs",
+              "ToolTip": "E:\\Repositorios Github\\ProjetosDesignPattern\\ProjetosDesignPattern\\ProjetosDesignPattern\\Strategy\\ExampleUsageStrategy.cs",
+              "RelativeToolTip": "ProjetosDesignPattern\\Strategy\\ExampleUsageStrategy.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAIA3wBgAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:33:45.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sorter.cs",
+              "DocumentMoniker": "E:\\Repositorios Github\\ProjetosDesignPattern\\ProjetosDesignPattern\\ProjetosDesignPattern\\Strategy\\Sorter.cs",
+              "RelativeDocumentMoniker": "ProjetosDesignPattern\\Strategy\\Sorter.cs",
+              "ToolTip": "E:\\Repositorios Github\\ProjetosDesignPattern\\ProjetosDesignPattern\\ProjetosDesignPattern\\Strategy\\Sorter.cs",
+              "RelativeToolTip": "ProjetosDesignPattern\\Strategy\\Sorter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:33:22.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuickSortStrategy.cs",
+              "DocumentMoniker": "E:\\Repositorios Github\\ProjetosDesignPattern\\ProjetosDesignPattern\\ProjetosDesignPattern\\Strategy\\Services\\QuickSortStrategy.cs",
+              "RelativeDocumentMoniker": "ProjetosDesignPattern\\Strategy\\Services\\QuickSortStrategy.cs",
+              "ToolTip": "E:\\Repositorios Github\\ProjetosDesignPattern\\ProjetosDesignPattern\\ProjetosDesignPattern\\Strategy\\Services\\QuickSortStrategy.cs",
+              "RelativeToolTip": "ProjetosDesignPattern\\Strategy\\Services\\QuickSortStrategy.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:32:21.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BubbleSortStrategy.cs",
+              "DocumentMoniker": "E:\\Repositorios Github\\ProjetosDesignPattern\\ProjetosDesignPattern\\ProjetosDesignPattern\\Strategy\\Services\\BubbleSortStrategy.cs",
+              "RelativeDocumentMoniker": "ProjetosDesignPattern\\Strategy\\Services\\BubbleSortStrategy.cs",
+              "ToolTip": "E:\\Repositorios Github\\ProjetosDesignPattern\\ProjetosDesignPattern\\ProjetosDesignPattern\\Strategy\\Services\\BubbleSortStrategy.cs",
+              "RelativeToolTip": "ProjetosDesignPattern\\Strategy\\Services\\BubbleSortStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:31:57.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISortStrategy.cs",
+              "DocumentMoniker": "E:\\Repositorios Github\\ProjetosDesignPattern\\ProjetosDesignPattern\\ProjetosDesignPattern\\Strategy\\Interfaces\\ISortStrategy.cs",
+              "RelativeDocumentMoniker": "ProjetosDesignPattern\\Strategy\\Interfaces\\ISortStrategy.cs",
+              "ToolTip": "E:\\Repositorios Github\\ProjetosDesignPattern\\ProjetosDesignPattern\\ProjetosDesignPattern\\Strategy\\Interfaces\\ISortStrategy.cs",
+              "RelativeToolTip": "ProjetosDesignPattern\\Strategy\\Interfaces\\ISortStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:31:35.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Repositorios Github\\ProjetosDesignPattern\\ProjetosDesignPattern\\ProjetosDesignPattern\\Program.cs",
               "RelativeDocumentMoniker": "ProjetosDesignPattern\\Program.cs",
               "ToolTip": "E:\\Repositorios Github\\ProjetosDesignPattern\\ProjetosDesignPattern\\ProjetosDesignPattern\\Program.cs",
               "RelativeToolTip": "ProjetosDesignPattern\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA2AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-14T13:36:46.746Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "ExampleUsageSingleton.cs",
               "DocumentMoniker": "E:\\Repositorios Github\\ProjetosDesignPattern\\ProjetosDesignPattern\\ProjetosDesignPattern\\Singleton\\ExampleUsageSingleton.cs",
               "RelativeDocumentMoniker": "ProjetosDesignPattern\\Singleton\\ExampleUsageSingleton.cs",
@@ -43,8 +128,7 @@
               "RelativeToolTip": "ProjetosDesignPattern\\Singleton\\ExampleUsageSingleton.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T13:36:02.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T13:36:02.72Z"
             }
           ]
         }

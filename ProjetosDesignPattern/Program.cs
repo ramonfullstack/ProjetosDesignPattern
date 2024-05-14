@@ -1,5 +1,5 @@
 ﻿using ProjetosDesignPattern.FactoryMethod;
 using ProjetosDesignPattern.Singleton;
+using ProjetosDesignPattern.Strategy;
 
-//ExampleUsageFactoryMethod.StartusingFactoryMethod();
-ExampleUsageSingleton.StartusingSingleton();
+ExampleUsageStrategy.GoStrategySort();
