@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Repositorios Github\\ProjetosDesignPattern\\ProjetosDesignPattern\\ProjetosDesignPattern\\ProjetosDesignPattern.csproj": {}
+    "E:\\DOTNET\\ProjetosDesignPattern\\ProjetosDesignPattern\\ProjetosDesignPattern.csproj": {}
   },
   "projects": {
-    "E:\\Repositorios Github\\ProjetosDesignPattern\\ProjetosDesignPattern\\ProjetosDesignPattern\\ProjetosDesignPattern.csproj": {
+    "E:\\DOTNET\\ProjetosDesignPattern\\ProjetosDesignPattern\\ProjetosDesignPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Repositorios Github\\ProjetosDesignPattern\\ProjetosDesignPattern\\ProjetosDesignPattern\\ProjetosDesignPattern.csproj",
+        "projectUniqueName": "E:\\DOTNET\\ProjetosDesignPattern\\ProjetosDesignPattern\\ProjetosDesignPattern.csproj",
         "projectName": "ProjetosDesignPattern",
-        "projectPath": "E:\\Repositorios Github\\ProjetosDesignPattern\\ProjetosDesignPattern\\ProjetosDesignPattern\\ProjetosDesignPattern.csproj",
+        "projectPath": "E:\\DOTNET\\ProjetosDesignPattern\\ProjetosDesignPattern\\ProjetosDesignPattern.csproj",
         "packagesPath": "C:\\Users\\RAMON\\.nuget\\packages\\",
-        "outputPath": "E:\\Repositorios Github\\ProjetosDesignPattern\\ProjetosDesignPattern\\ProjetosDesignPattern\\obj\\",
+        "outputPath": "E:\\DOTNET\\ProjetosDesignPattern\\ProjetosDesignPattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\RAMON\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\RAMON\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,11 +32,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -60,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
